@@ -1,0 +1,20 @@
+{
+  "name": "project-ecomerce",
+  "version": "1.0.0",
+  "description": "fake API for project ecomerce fe16",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Ngoc Thong",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
