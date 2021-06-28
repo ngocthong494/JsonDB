@@ -4,7 +4,10 @@
   "description": "fake API for project ecomerce fe16",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "npm run generate-data && node main.js",
+    "generate-data": "node generate-data.js"
   },
   "keywords": [
     "json-server"
@@ -12,7 +15,9 @@
   "author": "Ngoc Thong",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.16.3"
+    "faker": "^5.5.3",
+    "json-server": "^0.16.3",
+    "query-string": "^7.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"

@@ -1,0 +1,37 @@
+
+@baseUrl = http://localhost:3000/api
+@resourceName=categories
+
+###
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+
+
+###
+# @name filer
+GET {{baseUrl}}/{{resourceName}}/ba59f5ef-9eda-43c6-8740-88d30cef3d33/products
+
+
+###
+# @name addNew
+POST {{baseUrl}}/categories
+Content-Type: application/json
+
+{
+    "name": "name3"
+}
+
+###
+# @name update
+PATCH  {{baseUrl}}/categories/2729a6a9-ff90-489b-8060-eab2743d2c2e
+Content-Type: application/json
+
+{
+    "name": "computers"
+}
+
+###
+# @name delete
+DELETE   {{baseUrl}}/categories/2729a6a9-ff90-489b-8060-eab2743d2c2e
+Content-Type: application/json
+
