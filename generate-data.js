@@ -78,6 +78,13 @@
 //                 id: faker.datatype.uuid(),
 //                 name: faker.commerce.productName(),
 //                 price: Number.parseFloat(faker.commerce.price()),
+//                 bigPicture: '',
+//                 thumbnailUrl: [
+//                 "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg",
+//                 "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
+//                 "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw2.jpg",
+//                 "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw3.jpg"
+//                  ],
 //                 description: faker.commerce.productDescription(),
 //                 rating: {},
 //                 createdAt: Date.now(),
@@ -95,30 +102,30 @@
 // // -----------------------------------------------------------
 // // create images
 
-// const randomImageList = (productList, numberOfImageList) => {
-//     if(numberOfImageList <= 0) return [];
-//     const imageList = [];
+// // const randomImageList = (productList, numberOfImageList) => {
+// //     if(numberOfImageList <= 0) return [];
+// //     const imageList = [];
 
-//     // random data
+// //     // random data
 
-//     for(const product of productList) {
+// //     for(const product of productList) {
 
-//         Array.from(new Array(numberOfImageList)).forEach(() => {
+// //         Array.from(new Array(numberOfImageList)).forEach(() => {
 
-//             const image = {
-//                 productId: product.id,
-//                 id: faker.datatype.uuid(),
-//                 thumbnailUrl: faker.image.imageUrl(400, 400),
-//                 createdAt: Date.now(),
-//                 updatedAt: Date.now(),
-//             };
+// //             const image = {
+// //                 productId: product.id,
+// //                 id: faker.datatype.uuid(),
+// //                 thumbnailUrl: faker.image.imageUrl(400, 400),
+// //                 createdAt: Date.now(),
+// //                 updatedAt: Date.now(),
+// //             };
     
-//             imageList.push(image)
-//         })
-//     }
+// //             imageList.push(image)
+// //         })
+// //     }
 
-//     return imageList;
-// }
+// //     return imageList;
+// // }
 
 // // -----------------------------------------------------------
 // // create orders
@@ -207,10 +214,10 @@
 // // IFFE
 // (() => {
 //     // random data
-//     const userList = randomUserList(10)
-//     const categoryList = randomCategoryList(4)
-//     const productList = randomProductList(categoryList, 30)
-//     const imageList = randomImageList(productList, 4)
+//     const userList = randomUserList(3)
+//     const categoryList = randomCategoryList(3)
+//     const productList = randomProductList(categoryList, 10 )
+//     // const imageList = randomImageList(productList, 4)
 //     const orderList = randomOrderList( userList , 1)
 //     const orderDetailList = randomOrderDetailsList(orderList, 1)
 //     const addressList = randomAddressList(1)
@@ -219,7 +226,7 @@
 //         users: userList,
 //         categories: categoryList,
 //         products: productList,
-//         images: imageList,
+//         // images: imageList,
 //         orders: orderList,
 //         orderDetails: orderDetailList,
 //         address: addressList,

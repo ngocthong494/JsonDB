@@ -20,13 +20,17 @@ GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=esc
 
 ###
 
-# # @name addNewCategory
-# POST {{baseUrl}}/categories
-# Content-Type: application/json
+# @name addNewCategory
+POST {{baseUrl}}/products
+Content-Type: application/json
 
-# {
-#     "name": "name3"
-# }
+{
+    "categoryId": "980a12a8-5653-44bb-a8d4-eb580b7ef57d",
+    "name": "react test",
+    "price": 671,
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "rating": {}
+}
 
 # ###
 
