@@ -1,12 +1,15 @@
 const queryString = require('query-string');
 const jsonServer = require('json-server')
+const auth = require('json-server-auth')
 const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
 
+server.db = router.db
+
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares)
-
+server.use(auth)
 // Add custom routes before JSON Server router
 server.get('/echo', (req, res) => {
   res.jsonp(req.query)

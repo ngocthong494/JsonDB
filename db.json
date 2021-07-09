@@ -1,54 +1,5 @@
 {
-  "users": [
-    {
-      "id": "c5602659-75fc-4b14-ab6e-c6023fa89212",
-      "firstName": "Beatrice",
-      "lastName": "Mitchell",
-      "email": "Ward65@gmail.com",
-      "phone": "903.422.7782 x47019",
-      "password": "QAIENCG1",
-      "retypePassword": "ZECODKO1",
-      "birthday": "2020-12-21T06:10:08.823Z",
-      "sex": "Mr.",
-      "address": "57489 Taryn Cape",
-      "district": "Ocie Ridges",
-      "city": "Fargo",
-      "createdAt": 1625665180805,
-      "updatedAt": 1625665180805
-    },
-    {
-      "id": "47b85bdf-e9e8-4638-9761-71e38393c086",
-      "firstName": "Demond",
-      "lastName": "Streich",
-      "email": "Hannah.Will98@hotmail.com",
-      "phone": "(859) 983-7731 x49329",
-      "password": "MNOOERG1",
-      "retypePassword": "OKAATCG1",
-      "birthday": "2021-01-19T08:55:18.180Z",
-      "sex": "Dr.",
-      "address": "68939 Shyanne Summit",
-      "district": "Boyd Forge",
-      "city": "Montgomery",
-      "createdAt": 1625665180805,
-      "updatedAt": 1625665180805
-    },
-    {
-      "id": "fcc6c658-388f-49ba-a718-bebab730f26e",
-      "firstName": "Judah",
-      "lastName": "Paucek",
-      "email": "Trystan_Gutmann21@yahoo.com",
-      "phone": "(589) 941-6966 x60551",
-      "password": "FYPUNZV1099",
-      "retypePassword": "YFZALUT1",
-      "birthday": "2020-10-05T02:36:38.868Z",
-      "sex": "Miss",
-      "address": "30608 Baumbach Ports",
-      "district": "Lempi Orchard",
-      "city": "Lakewood",
-      "createdAt": 1625665180806,
-      "updatedAt": 1625665180806
-    }
-  ],
+  "users": [],
   "categories": [
     {
       "id": "28015821-527b-49e7-8973-079b8c198ae1",
