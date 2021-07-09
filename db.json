@@ -1,5 +1,40 @@
 {
-  "users": [],
+  "users": [
+    {
+      "FirstName": "Cao Ngoc",
+      "LastName": "Hoang",
+      "Email": "admin@gmail.com",
+      "Phone": "0972485222",
+      "Password": "a1!123123",
+      "RetypePassword": "a1!123123",
+      "BirthDay": "23/1/1999",
+      "Sex": "male",
+      "Address": "24-Ngo Quyen",
+      "District": "Son Tra",
+      "City": "Da Nang",
+      "role": "admin",
+      "createdAt": 1625844330265,
+      "updatedAt": 1625844330265,
+      "id": 1
+    },
+    {
+      "FirstName": "Doan Ngoc",
+      "LastName": "Thong",
+      "Email": "admin1@gmail.com",
+      "Phone": "0972485266",
+      "Password": "a1!123123",
+      "RetypePassword": "a1!123123",
+      "BirthDay": "23/4/1994",
+      "Sex": "male",
+      "Address": "34/36-Le Huu Trac",
+      "District": "Son Tra",
+      "City": "Da Nang",
+      "role": "admin",
+      "createdAt": 1625844396989,
+      "updatedAt": 1625844396989,
+      "id": 2
+    }
+  ],
   "categories": [
     {
       "id": "28015821-527b-49e7-8973-079b8c198ae1",
