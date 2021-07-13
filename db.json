@@ -1,30 +1,30 @@
 {
   "users": [
     {
-      "email": "admin@gmail.com",
-      "password": "$2a$10$L6iACQzc5IRB5e8vQd/pietIs0lh7xhw9RuX3tU0S8HqeNnxVA1.m",
       "firstName": "Doan Ngoc",
       "lastName": "Thong",
-      "phone": "0972485222",
+      "email": "ngocthong494@gmail.com",
+      "phone": "0336456321",
+      "password": "a!123123",
       "retypePassword": "a!123123",
       "birthDay": "23/04/1994",
       "sex": "male",
-      "address": "34-Le Huu Trac",
+      "address": "34/36-Le Huu Trac",
       "district": "Son Tra",
       "city": "Da Nang",
       "role": "admin",
       "id": 1
     },
     {
-      "email": "admin1@gmail.com",
-      "password": "$2a$10$08HFFQDdmTgZMRa.Ew.gHusb/o.wShTfCGq4AyRVhdMCKgSDyaIUe",
       "firstName": "Cao Ngoc",
       "lastName": "Hoang",
+      "email": "ngochoang@gmail.com",
       "phone": "0336456321",
+      "password": "a!123123",
       "retypePassword": "a!123123",
-      "birthDay": "22/2/1992",
+      "birthDay": "23/04/1994",
       "sex": "male",
-      "address": "20-Ngo Quyen",
+      "address": "34/36-Le Huu Trac",
       "district": "Son Tra",
       "city": "Da Nang",
       "role": "admin",
@@ -61,7 +61,7 @@
     {
       "categoryId": "1",
       "name": "Zamioculcas Zamifollia",
-      "price": "150$",
+      "price": 60000,
       "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
@@ -79,7 +79,7 @@
     {
       "categoryId": "1",
       "name": "Jade Tree",
-      "price": "120$",
+      "price": 60000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
@@ -97,7 +97,7 @@
     {
       "categoryId": "1",
       "name": "Spathiphyllum Wallisii",
-      "price": "160$",
+      "price": 60000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-3.jpg",
       "thumbnailUrl": [
@@ -115,7 +115,7 @@
     {
       "categoryId": "1",
       "name": "Ironwood Tree",
-      "price": "220$",
+      "price": 70000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-4.jpg",
       "thumbnailUrl": [
@@ -133,7 +133,7 @@
     {
       "categoryId": "1",
       "name": "Ornamental Hongmen Tree",
-      "price": "80$",
+      "price": 70000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-5.jpg",
       "thumbnailUrl": [
@@ -151,7 +151,7 @@
     {
       "categoryId": "1",
       "name": "The Tree of Peace of Mind",
-      "price": "110$",
+      "price": 70000,
       "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-6.jpg",
       "thumbnailUrl": [
@@ -169,7 +169,7 @@
     {
       "categoryId": "1",
       "name": "Bach Hop Bamboo Tree",
-      "price": "250$",
+      "price": 80000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-7.jpg",
       "thumbnailUrl": [
@@ -187,7 +187,7 @@
     {
       "categoryId": "1",
       "name": "Golden Palace Tree",
-      "price": "50$",
+      "price": 80000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-8.jpg",
       "thumbnailUrl": [
@@ -205,7 +205,7 @@
     {
       "categoryId": "1",
       "name": "Valentine tree",
-      "price": "100$",
+      "price": 90000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
@@ -223,7 +223,7 @@
     {
       "categoryId": "1",
       "name": "Prosperity tree",
-      "price": "150$",
+      "price": 90000,
       "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
@@ -241,7 +241,7 @@
     {
       "categoryId": "2",
       "name": "Japanese Palm Trees",
-      "price": "250$",
+      "price": 90000,
       "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
@@ -259,7 +259,7 @@
     {
       "categoryId": "2",
       "name": "Her betel tree",
-      "price": "75$",
+      "price": 90000,
       "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
@@ -277,7 +277,7 @@
     {
       "categoryId": "2",
       "name": "Mini tiger tongue tree",
-      "price": "200$",
+      "price": 100000,
       "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-3.jpg",
       "thumbnailUrl": [
@@ -295,7 +295,7 @@
     {
       "categoryId": "2",
       "name": "Chlorophytum Comosum",
-      "price": "150$",
+      "price": 100000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-4.jpg",
       "thumbnailUrl": [
@@ -313,7 +313,7 @@
     {
       "categoryId": "2",
       "name": "Aglaonema",
-      "price": "90$",
+      "price": 100000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-5.jpg",
       "thumbnailUrl": [
@@ -331,7 +331,7 @@
     {
       "categoryId": "2",
       "name": "Heather ",
-      "price": "80$",
+      "price": 110000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-6.jpg",
       "thumbnailUrl": [
@@ -349,7 +349,7 @@
     {
       "categoryId": "2",
       "name": "Buttercup ",
-      "price": "100$",
+      "price": 110000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-7.jpg",
       "thumbnailUrl": [
@@ -367,7 +367,7 @@
     {
       "categoryId": "2",
       "name": "Carnation  ",
-      "price": "110$",
+      "price": 110000,
       "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-8.jpg",
       "thumbnailUrl": [
@@ -385,7 +385,7 @@
     {
       "categoryId": "2",
       "name": "Brambles",
-      "price": "210$",
+      "price": 150000,
       "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
@@ -403,7 +403,7 @@
     {
       "categoryId": "2",
       "name": "Bracken ",
-      "price": "50$",
+      "price": 150000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
@@ -421,7 +421,7 @@
     {
       "categoryId": "3",
       "name": "Fungus ",
-      "price": "80$",
+      "price": 60000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
@@ -439,7 +439,7 @@
     {
       "categoryId": "3",
       "name": "Grass",
-      "price": "30$",
+      "price": 60000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
@@ -457,7 +457,7 @@
     {
       "categoryId": "3",
       "name": "Herb",
-      "price": "90$",
+      "price": 70000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-3.jpg",
       "thumbnailUrl": [
@@ -475,7 +475,7 @@
     {
       "categoryId": "3",
       "name": "Ivy",
-      "price": "100$",
+      "price": 70000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-4.jpg",
       "thumbnailUrl": [
@@ -493,7 +493,7 @@
     {
       "categoryId": "3",
       "name": "Moss",
-      "price": "200$",
+      "price": 70000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-5.jpg",
       "thumbnailUrl": [
@@ -511,7 +511,7 @@
     {
       "categoryId": "3",
       "name": "Mushroom",
-      "price": "180$",
+      "price": 110000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-6.jpg",
       "thumbnailUrl": [
@@ -529,7 +529,7 @@
     {
       "categoryId": "3",
       "name": "Nettle",
-      "price": "140$",
+      "price": 110000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-7.jpg",
       "thumbnailUrl": [
@@ -547,7 +547,7 @@
     {
       "categoryId": "3",
       "name": "Shrub",
-      "price": "110$",
+      "price": 110000,
       "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-8.jpg",
       "thumbnailUrl": [
@@ -565,7 +565,7 @@
     {
       "categoryId": "3",
       "name": "Thistle",
-      "price": "90$",
+      "price": 190000,
       "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
@@ -583,7 +583,7 @@
     {
       "categoryId": "3",
       "name": "Toadstool",
-      "price": "40$",
+      "price": 190000,
       "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
@@ -601,7 +601,7 @@
     {
       "categoryId": "4",
       "name": "Weed",
-      "price": "50$",
+      "price": 210000,
       "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
@@ -619,7 +619,7 @@
     {
       "categoryId": "4",
       "name": "Wheat",
-      "price": "90$",
+      "price": 220000,
       "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
@@ -637,7 +637,7 @@
     {
       "categoryId": "4",
       "name": "Bluebell",
-      "price": "300$",
+      "price": 230000,
       "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-3.jpg",
       "thumbnailUrl": [
@@ -655,7 +655,7 @@
     {
       "categoryId": "4",
       "name": "Buttercup",
-      "price": "230$",
+      "price": 250000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-4.jpg",
       "thumbnailUrl": [
@@ -673,7 +673,7 @@
     {
       "categoryId": "4",
       "name": "Carnation",
-      "price": "330$",
+      "price": 260000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-5.jpg",
       "thumbnailUrl": [
@@ -691,7 +691,7 @@
     {
       "categoryId": "4",
       "name": "Chrysanthemum",
-      "price": "180$",
+      "price": 210000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-6.jpg",
       "thumbnailUrl": [
@@ -709,7 +709,7 @@
     {
       "categoryId": "4",
       "name": "Crocus",
-      "price": "400$",
+      "price": 210000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-7.jpg",
       "thumbnailUrl": [
@@ -727,7 +727,7 @@
     {
       "categoryId": "4",
       "name": "Daffodil",
-      "price": "490$",
+      "price": 210000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-8.jpg",
       "thumbnailUrl": [
@@ -745,7 +745,7 @@
     {
       "categoryId": "4",
       "name": "Dahlia",
-      "price": "390$",
+      "price": 210000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
@@ -763,7 +763,7 @@
     {
       "categoryId": "4",
       "name": "Dandelion",
-      "price": "290$",
+      "price": 210000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
