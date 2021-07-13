@@ -39,7 +39,7 @@ router.render = (req, res) => {
 
   const totalCountheader = headers['x-total-count'];
 
-  if(req.method === 'GET' && totalCountheader) {
+  if (req.method === 'GET' && totalCountheader) {
     const queryParams = queryString.parse(req._parsedUrl.query);
 
     const result = {
@@ -63,8 +63,8 @@ server.use('/api/login', (req, res, next) => {
     status: "ok"
   })
 })
-server.use('/api' ,router)
-const PORT = process.env.PORT || 3000;
+server.use('/api', router)
+const PORT = process.env.PORT || 3001;
 server.listen(PORT, () => {
   console.log(`JSON Server is running http://localhost:${PORT}`)
 })
