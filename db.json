@@ -62,6 +62,7 @@
       "categoryId": "1",
       "name": "Zamioculcas Zamifollia",
       "price": "150$",
+      "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -70,7 +71,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The money tree is also known as the money tree. Their scientific name is Zamiokulkas Zamifolia. Although this plant is small in size, its vitality is very strong. Smooth, glossy green leaves. It always looks so fresh. The longer the tree lives, the more opportunities it has to grow.\nIn addition to the ability to filter the air, this is also a plant of high water protection. People often use it on desks, corridors, etc.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625989280827,
       "updatedAt": 1625989280827,
       "id": "TcEazzX"
@@ -79,6 +80,7 @@
       "categoryId": "1",
       "name": "Jade Tree",
       "price": "120$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -87,7 +89,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "In addition to the fortune needle, the jade tree also brings very good money. Although their appearance is small, but in return they have a vitality that is second to none. Even in harsh environments like the office. They also have fewer pests and diseases.\n\nUsually jade plants used to grow in offices have oval slabs. These slabs are connected to form very beautiful shoots of bamboo shoots. These shoots will help the plant collect money and positive energy for the owner.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625989416918,
       "updatedAt": 1625989416918,
       "id": "NcWyqyW"
@@ -96,6 +98,7 @@
       "categoryId": "1",
       "name": "Spathiphyllum Wallisii",
       "price": "160$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-3.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -104,7 +107,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "Their English name is Spathiphyllum Wallisii. And Vietnamese people often call it orchids. This plant has a very good air purifying effect.\n\nIn addition, it also absorbs electromagnetic waves or ultraviolet rays from electrical equipment. This tree is often placed in the aisle more than the desk.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625989495116,
       "updatedAt": 1625989495116,
       "id": "S8CbJ4Q"
@@ -113,6 +116,7 @@
       "categoryId": "1",
       "name": "Ironwood Tree",
       "price": "220$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-4.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -121,7 +125,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "In addition to the fortune needle, the jade tree also brings very good money. Although their appearance is small, but in return they have a vitality that is second to none. Even in harsh environments like the office. They also have fewer pests and diseases.\\n\\nUsually jade plants used to grow in offices have oval slabs. These slabs are connected to form very beautiful shoots of bamboo shoots. These shoots will help the plant collect money and positive energy for the owner.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625989588633,
       "updatedAt": 1625989588633,
       "id": "a6OtKW-"
@@ -130,6 +134,7 @@
       "categoryId": "1",
       "name": "Ornamental Hongmen Tree",
       "price": "80$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-5.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -138,7 +143,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "In addition to the fortune needle, the jade tree also brings very good money. Although their appearance is small, but in return they have a vitality that is second to none. Even in harsh environments like the office. They also have fewer pests and diseases.\\\\n\\\\nUsually jade plants used to grow in offices have oval slabs. These slabs are connected to form very beautiful shoots of bamboo shoots. These shoots will help the plant collect money and positive energy for the owner.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625989744123,
       "updatedAt": 1625989744123,
       "id": "k0AX1t3"
@@ -147,6 +152,7 @@
       "categoryId": "1",
       "name": "The Tree of Peace of Mind",
       "price": "110$",
+      "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-6.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -155,7 +161,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "450 / 5000\nKết quả dịch\nLike the name, the tree is like that. Looking at this tree, people will have a strange feeling of relaxation and peace of mind. They have a cool green appearance. They work to help reduce toxins and organic substances harmful to humans!\nThis is a cool favorite and can be grown hydroponically. So when growing plants you will need a decent amount of water for them! In addition to the water mode for the plant, you also need to pay attention to bring the plant to the light to make the leaves greener. ",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625989839057,
       "updatedAt": 1625989839057,
       "id": "2WUfDyI"
@@ -164,6 +170,7 @@
       "categoryId": "1",
       "name": "Bach Hop Bamboo Tree",
       "price": "250$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-7.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -172,7 +179,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "Like the name, the tree is like that. Looking at this tree, people will have a strange feeling of relaxation and peace of mind. They have a cool green appearance. They work to help reduce toxins and organic substances harmful to humans!\nThis is a cool favorite and can be grown hydroponically. So when growing plants you will need a decent amount of water for them! In addition to the water mode for the plant, you also need to pay attention to bring the plant to the light to make the leaves greener.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625989931769,
       "updatedAt": 1625989931769,
       "id": "Vq87Adg"
@@ -181,6 +188,7 @@
       "categoryId": "1",
       "name": "Golden Palace Tree",
       "price": "50$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-8.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -189,7 +197,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "Like the name, the tree is like that. Looking at this tree, people will have a strange feeling of relaxation and peace of mind. They have a cool green appearance. They work to help reduce toxins and organic substances harmful to humans!\nThis is a cool favorite and can be grown hydroponically. So when growing plants you will need a decent amount of water for them! In addition to the water mode for the plant, you also need to pay attention to bring the plant to the light to make the leaves greener.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990008383,
       "updatedAt": 1625990008383,
       "id": "pNW62P8"
@@ -198,6 +206,7 @@
       "categoryId": "1",
       "name": "Valentine tree",
       "price": "100$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -206,7 +215,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "Their English name is Spathiphyllum Wallisii. And Vietnamese people often call it orchids. This plant has a very good air purifying effect.\n\nIn addition, it also absorbs electromagnetic waves or ultraviolet rays from electrical equipment. This tree is often placed in the aisle more than the desk.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990139150,
       "updatedAt": 1625990139150,
       "id": "jxV8zkg"
@@ -215,6 +224,7 @@
       "categoryId": "1",
       "name": "Prosperity tree",
       "price": "150$",
+      "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -223,7 +233,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "Their English name is Spathiphyllum Wallisii. And Vietnamese people often call it orchids. This plant has a very good air purifying effect.\n\nIn addition, it also absorbs electromagnetic waves or ultraviolet rays from electrical equipment. This tree is often placed in the aisle more than the desk.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990206158,
       "updatedAt": 1625990206158,
       "id": "FFzpEdE"
@@ -232,6 +242,7 @@
       "categoryId": "2",
       "name": "Japanese Palm Trees",
       "price": "250$",
+      "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -240,7 +251,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "Their English name is Spathiphyllum Wallisii. And Vietnamese people often call it orchids. This plant has a very good air purifying effect.\n\nIn addition, it also absorbs electromagnetic waves or ultraviolet rays from electrical equipment. This tree is often placed in the aisle more than the desk.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990548019,
       "updatedAt": 1625990548019,
       "id": "oblLKyo"
@@ -249,6 +260,7 @@
       "categoryId": "2",
       "name": "Her betel tree",
       "price": "75$",
+      "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -257,7 +269,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "Their English name is Spathiphyllum Wallisii. And Vietnamese people often call it orchids. This plant has a very good air purifying effect.\n\nIn addition, it also absorbs electromagnetic waves or ultraviolet rays from electrical equipment. This tree is often placed in the aisle more than the desk.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990597291,
       "updatedAt": 1625990597291,
       "id": "a9OxJkl"
@@ -266,6 +278,7 @@
       "categoryId": "2",
       "name": "Mini tiger tongue tree",
       "price": "200$",
+      "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-3.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -274,7 +287,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "cJHOS7T"
@@ -283,6 +296,7 @@
       "categoryId": "2",
       "name": "Chlorophytum Comosum",
       "price": "150$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-4.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -291,7 +305,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "cJHOt7T"
@@ -300,6 +314,7 @@
       "categoryId": "2",
       "name": "Aglaonema",
       "price": "90$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-5.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -308,7 +323,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "cbHOt7T"
@@ -317,6 +332,7 @@
       "categoryId": "2",
       "name": "Heather ",
       "price": "80$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-6.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -325,7 +341,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "cRHOt7T"
@@ -334,6 +350,7 @@
       "categoryId": "2",
       "name": "Buttercup ",
       "price": "100$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-7.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -342,7 +359,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "cRHMt7T"
@@ -351,6 +368,7 @@
       "categoryId": "2",
       "name": "Carnation  ",
       "price": "110$",
+      "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-8.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -359,7 +377,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "cRHHt7T"
@@ -368,6 +386,7 @@
       "categoryId": "2",
       "name": "Brambles",
       "price": "210$",
+      "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -376,7 +395,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "PRHHt7T"
@@ -385,6 +404,7 @@
       "categoryId": "2",
       "name": "Bracken ",
       "price": "50$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -393,7 +413,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "PRHJt7T"
@@ -402,6 +422,7 @@
       "categoryId": "3",
       "name": "Fungus ",
       "price": "80$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -410,7 +431,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "PKOJt7T"
@@ -419,6 +440,7 @@
       "categoryId": "3",
       "name": "Grass",
       "price": "30$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -427,7 +449,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "OKHJt7T"
@@ -436,6 +458,7 @@
       "categoryId": "3",
       "name": "Herb",
       "price": "90$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-3.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -444,7 +467,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "PKLJt7T"
@@ -453,6 +476,7 @@
       "categoryId": "3",
       "name": "Ivy",
       "price": "100$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-4.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -461,7 +485,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "PKYJt7T"
@@ -470,6 +494,7 @@
       "categoryId": "3",
       "name": "Moss",
       "price": "200$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-5.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -478,7 +503,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "QKYJt7T"
@@ -487,6 +512,7 @@
       "categoryId": "3",
       "name": "Mushroom",
       "price": "180$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-6.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -495,7 +521,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "QKBJt7T"
@@ -504,6 +530,7 @@
       "categoryId": "3",
       "name": "Nettle",
       "price": "140$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-7.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -512,7 +539,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "QRBJt7T"
@@ -521,6 +548,7 @@
       "categoryId": "3",
       "name": "Shrub",
       "price": "110$",
+      "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-8.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -529,7 +557,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "QRgJt7T"
@@ -538,6 +566,7 @@
       "categoryId": "3",
       "name": "Thistle",
       "price": "90$",
+      "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -546,7 +575,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "QRaJt7T"
@@ -555,6 +584,7 @@
       "categoryId": "3",
       "name": "Toadstool",
       "price": "40$",
+      "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -563,7 +593,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "RRaJt7T"
@@ -572,6 +602,7 @@
       "categoryId": "4",
       "name": "Weed",
       "price": "50$",
+      "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -580,7 +611,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "RRYJt7T"
@@ -589,6 +620,7 @@
       "categoryId": "4",
       "name": "Wheat",
       "price": "90$",
+      "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -597,7 +629,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "RGYJt7T"
@@ -606,6 +638,7 @@
       "categoryId": "4",
       "name": "Bluebell",
       "price": "300$",
+      "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-3.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -614,7 +647,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "RGUJt7T"
@@ -623,6 +656,7 @@
       "categoryId": "4",
       "name": "Buttercup",
       "price": "230$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-4.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -631,7 +665,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "RG9Jt7T"
@@ -640,6 +674,7 @@
       "categoryId": "4",
       "name": "Carnation",
       "price": "330$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-5.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -648,7 +683,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "RG95Jt7T"
@@ -657,6 +692,7 @@
       "categoryId": "4",
       "name": "Chrysanthemum",
       "price": "180$",
+      "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-6.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -665,7 +701,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "RG9IJt7T"
@@ -674,6 +710,7 @@
       "categoryId": "4",
       "name": "Crocus",
       "price": "400$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-7.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -682,7 +719,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "R89IJt7T"
@@ -691,6 +728,7 @@
       "categoryId": "4",
       "name": "Daffodil",
       "price": "490$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-8.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -699,7 +737,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "RZ9IJt7T"
@@ -708,6 +746,7 @@
       "categoryId": "4",
       "name": "Dahlia",
       "price": "390$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -716,7 +755,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "RKZ9IJt7T"
@@ -725,6 +764,7 @@
       "categoryId": "4",
       "name": "Dandelion",
       "price": "290$",
+      "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
       "thumbnailUrl": [
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
@@ -733,7 +773,7 @@
         "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
       ],
       "description": "The shape of the green, healthy tree makes the viewer feel extremely comfortable. This is the leading plant in terms of absorbing toxins and bringing in fresh air. Not only that, it also provides oxygen effectively. In feng shui it means fortune and luck, helping career advancement.",
-      "rating": "",
+      "rating": {},
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "RIUZ9IJt7T"
