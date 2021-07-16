@@ -2,9 +2,10 @@ const queryString = require('query-string');
 const jsonServer = require('json-server')
 const auth = require('json-server-auth');
 const express = require("express");
-const cors  = require("cors");
-const jwt  = require("jsonwebtoken");
-const { createRequire }  = require('module');
+const cors = require("cors");
+const jwt = require("jsonwebtoken");
+const { createRequire } = require('module');
+const bcrypt = require('bcryptjs');
 const db = require('./db.json');
 
 require('dotenv').config();
@@ -15,9 +16,24 @@ const PORT = process.env.PORT || 5000;
 // const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
-// app.db = router.db
+app.db = router.db
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
+
+app.use(jsonServer.bodyParser)
+app.use((req, res, next) => {
+
+  if (req.method === 'POST') {
+    req.body.createdAt = Date.now()
+    req.body.updatedAt = Date.now()
+  } else if (req.method === 'PATCH') {
+    req.body.updatedAt = Date.now()
+  } else if (req.method === 'PUT') {
+    req.body.updatedAt = Date.now()
+  }
+  // Continue to JSON Server router
+  next()
+})
 
 app.use(
   cors({
@@ -36,10 +52,10 @@ app.post("/api/login", function (req, res) {
     });
 
     if (findUser) {
-      const accessToken = jwt.sign({email, role: findUser.role}, process.env.ACCESS_TOKEN_SECRET);
+      const accessToken = jwt.sign({ email, role: findUser.role, name: findUser.lastName }, process.env.ACCESS_TOKEN_SECRET);
       res.json({ accessToken, message: "Sign in successfully!", status: true, });
     } else {
-      res.json({ message: "Username or password invalid!", status: false, });
+      res.status(401).json({ message: "Username or password invalid!", status: false, });
       return;
     }
   } catch (error) {
@@ -99,29 +115,29 @@ app.listen(PORT, () => {
 //   next()
 // })
 
-// router.render = (req, res) => {
-//   // Check GET with pagination
-//   // If yes, custom output
-//   const headers = res.getHeaders();
+router.render = (req, res) => {
+  // Check GET with pagination
+  // If yes, custom output
+  const headers = res.getHeaders();
 
-//   const totalCountheader = headers['x-total-count'];
+  const totalCountheader = headers['x-total-count'];
 
-//   if(req.method === 'GET' && totalCountheader) {
-//     const queryParams = queryString.parse(req._parsedUrl.query);
+  if (req.method === 'GET' && totalCountheader) {
+    const queryParams = queryString.parse(req._parsedUrl.query);
 
-//     const result = {
-//       data: res.locals.data,
-//       pagination: {
-//         _page: Number.parseInt(queryParams._page),
-//         _limit: Number.parseInt(queryParams._limit),
-//         _totalRows: Number.parseInt(totalCountheader),
-//       },
-//     };
-//     return res.jsonp(result)
-//   }
-//   // Otherwise, keep default behavior
-//   res.jsonp(res.locals.data)
-// }
+    const result = {
+      data: res.locals.data,
+      pagination: {
+        _page: Number.parseInt(queryParams._page),
+        _limit: Number.parseInt(queryParams._limit),
+        _totalRows: Number.parseInt(totalCountheader),
+      },
+    };
+    return res.jsonp(result)
+  }
+  // Otherwise, keep default behavior
+  res.jsonp(res.locals.data)
+}
 
 // // Use default router
 // server.use('/api/login', (req, res, next) => {
