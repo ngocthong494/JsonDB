@@ -29,6 +29,21 @@
       "city": "Da Nang",
       "role": "admin",
       "id": 2
+    },
+    {
+      "firstName": "Nguyen Van",
+      "lastName": "Anh",
+      "email": "anhnguyen@gmail.com",
+      "phone": "0336456321",
+      "password": "123!a123",
+      "retypePassword": "123!a123",
+      "birthDay": "123123",
+      "sex": "123123",
+      "address": "123123",
+      "district": "123123",
+      "city": "123123",
+      "role": "user",
+      "id": 4
     }
   ],
   "categories": [
@@ -60,7 +75,7 @@
   "products": [
     {
       "categoryId": "1",
-      "name": "Zamioculcas Zamifollia",
+      "name": "Zamioculcas",
       "price": 60000,
       "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
@@ -96,7 +111,7 @@
     },
     {
       "categoryId": "1",
-      "name": "Spathiphyllum Wallisii",
+      "name": "Spathiphyllum",
       "price": 60000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-3.jpg",
@@ -132,7 +147,7 @@
     },
     {
       "categoryId": "1",
-      "name": "Ornamental Hongmen Tree",
+      "name": "Ornamental",
       "price": 70000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-5.jpg",
@@ -150,7 +165,7 @@
     },
     {
       "categoryId": "1",
-      "name": "The Tree of Peace of Mind",
+      "name": "Peace of Mind",
       "price": 70000,
       "sale": 0.1,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-6.jpg",
@@ -168,7 +183,7 @@
     },
     {
       "categoryId": "1",
-      "name": "Bach Hop Bamboo Tree",
+      "name": "Bamboo Tree",
       "price": 80000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-7.jpg",
@@ -186,7 +201,7 @@
     },
     {
       "categoryId": "1",
-      "name": "Golden Palace Tree",
+      "name": "Golden Tree",
       "price": 80000,
       "sale": 0.15,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-8.jpg",
@@ -276,7 +291,7 @@
     },
     {
       "categoryId": "2",
-      "name": "Mini tiger tongue tree",
+      "name": "Tiger tongue tree",
       "price": 100000,
       "sale": 0.25,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-3.jpg",
@@ -294,7 +309,7 @@
     },
     {
       "categoryId": "2",
-      "name": "Chlorophytum Comosum",
+      "name": "Chlorophytum",
       "price": 100000,
       "sale": 0.2,
       "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-4.jpg",
@@ -777,6 +792,22 @@
       "createdAt": 1625990663111,
       "updatedAt": 1625990663111,
       "id": "RIUZ9IJt7T"
+    },
+    {
+      "categoryId": "4",
+      "name": "Bamboo",
+      "price": "300000",
+      "sale": "0.2",
+      "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw3.jpg",
+      "thumbnailUrl": [
+        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
+        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw2.jpg",
+        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw3.jpg",
+        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
+      ],
+      "description": "The money tree is also known as the money tree. Their scientific name is Zamiokulkas Zamifolia. Although this plant is small in size, its vitality is very strong. Smooth, glossy green leaves. It always looks so fresh. The longer the tree lives, the more opportunities it has to grow.",
+      "rating": {},
+      "id": "gYVQMmi"
     }
   ],
   "orders": [
