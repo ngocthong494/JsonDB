@@ -39,7 +39,7 @@
       "retypePassword": "123!a123",
       "birthDay": "123123",
       "sex": "123123",
-      "address": "123123",
+      "address": "20/NgoQuyen-SonTra-DaNang",
       "district": "123123",
       "city": "123123",
       "role": "user",
@@ -54,7 +54,7 @@
       "retypePassword": "123!a123",
       "birthDay": "123123",
       "sex": "123123",
-      "address": "123123",
+      "address": "128/LeVanDuyet-Q8-SaiGon",
       "district": "123123",
       "city": "123123",
       "role": "user",
@@ -69,11 +69,41 @@
       "retypePassword": "123!a123",
       "birthDay": "123123",
       "sex": "123123",
-      "address": "123123",
+      "address": "321/LeDuan-HaDong-HaNoi",
       "district": "123123",
       "city": "123123",
       "role": "user",
       "id": 5
+    },
+    {
+      "firstName": "Ho Manh",
+      "lastName": "Tien",
+      "email": "homanh@gmail.com",
+      "phone": "0336456321",
+      "password": "123!a123",
+      "retypePassword": "123!a123",
+      "birthDay": "123123",
+      "sex": "123123",
+      "address": "11/VoNguyenGiap-KienAn-HaiPhong",
+      "district": "123123",
+      "city": "123123",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "firstName": "Le Van",
+      "lastName": "Huu",
+      "email": "levan@gmail.com",
+      "phone": "0336456321",
+      "password": "123!a123",
+      "retypePassword": "123!a123",
+      "birthDay": "123123",
+      "sex": "123123",
+      "address": "311/NguyenDuyHieu-TpCaoBang",
+      "district": "123123",
+      "city": "123123",
+      "role": "user",
+      "id": 7
     }
   ],
   "categories": [
@@ -844,245 +874,176 @@
     {
       "userId": 3,
       "fullname": "Nguyen Van  Anh",
-      "deleveryAddress": "123123",
-      "orderNotes": "",
+      "deleveryAddress": "18/LeVanDuyet-AnSon-TamKy-QuangNam",
+      "orderNotes": "Giao hàng vào lúc 7h-8h tối.",
       "phoneNumber": "0336456321",
       "cart": {
         "product": [
           {
-            "name": "Zamioculcas",
-            "quantity": 2,
-            "price": 45000,
-            "unitPrice": 90000
+            "name": "Spathiphyllum",
+            "quantity": 1,
+            "price": 48000,
+            "unitPrice": 48000
           },
           {
-            "name": "Spathiphyllum",
-            "quantity": 9,
-            "price": 48000,
-            "unitPrice": 432000
+            "name": "Jade Tree",
+            "quantity": 2,
+            "price": 51000,
+            "unitPrice": 102000
+          },
+          {
+            "name": "Zamioculcas",
+            "quantity": 3,
+            "price": 45000,
+            "unitPrice": 135000
+          },
+          {
+            "name": "Ironwood Tree",
+            "quantity": 5,
+            "price": 56000,
+            "unitPrice": 280000
           }
         ],
-        "totalPrice": 522000
+        "totalPrice": 565000
       },
-      "createdAt": 1626686511813,
-      "updatedAt": 1626686511813,
+      "createdAt": 1626707708266,
+      "updatedAt": 1626707708266,
       "id": 1
     },
     {
       "userId": 3,
       "fullname": "Nguyen Van  Anh",
-      "deleveryAddress": "123123",
-      "orderNotes": "",
+      "deleveryAddress": "20/NgoQuyen-SonTra-DaNang",
+      "orderNotes": "Cắt nước trước khi giao hàng !.",
       "phoneNumber": "0336456321",
       "cart": {
         "product": [
           {
-            "name": "Zamioculcas",
-            "quantity": 2,
-            "price": 45000,
-            "unitPrice": 90000
+            "name": "Ornamental",
+            "quantity": 3,
+            "price": 56000,
+            "unitPrice": 168000
           },
           {
-            "name": "Spathiphyllum",
-            "quantity": 9,
-            "price": 48000,
-            "unitPrice": 432000
+            "name": "Peace of Mind",
+            "quantity": 3,
+            "price": 63000,
+            "unitPrice": 189000
+          },
+          {
+            "name": "Bamboo Tree",
+            "quantity": 2,
+            "price": 68000,
+            "unitPrice": 136000
+          },
+          {
+            "name": "Golden Tree",
+            "quantity": 1,
+            "price": 68000,
+            "unitPrice": 68000
           }
         ],
-        "totalPrice": 522000
+        "totalPrice": 561000
       },
-      "createdAt": 1626686568023,
-      "updatedAt": 1626686568023,
+      "createdAt": 1626707789212,
+      "updatedAt": 1626707789212,
       "id": 2
     },
     {
       "userId": 3,
       "fullname": "Nguyen Van  Anh",
-      "deleveryAddress": "123123",
-      "orderNotes": "asdasdasd",
+      "deleveryAddress": "197/NgoQuyen-SonTra-DaNang",
+      "orderNotes": "Không đóng hàng quá kín !",
       "phoneNumber": "0336456321",
       "cart": {
         "product": [
           {
-            "name": "Zamioculcas",
+            "name": "Japanese Palm Trees",
             "quantity": 2,
-            "price": 45000,
-            "unitPrice": 90000
+            "price": 67500,
+            "unitPrice": 135000
           },
           {
-            "name": "Spathiphyllum",
-            "quantity": 9,
-            "price": 48000,
-            "unitPrice": 432000
+            "name": "Prosperity tree",
+            "quantity": 3,
+            "price": 81000,
+            "unitPrice": 243000
+          },
+          {
+            "name": "Valentine tree",
+            "quantity": 2,
+            "price": 76500,
+            "unitPrice": 153000
+          },
+          {
+            "name": "Her betel tree",
+            "quantity": 3,
+            "price": 67500,
+            "unitPrice": 202500
           }
         ],
-        "totalPrice": 522000
+        "totalPrice": 733500
       },
-      "createdAt": 1626686954078,
-      "updatedAt": 1626686954078,
+      "createdAt": 1626708062980,
+      "updatedAt": 1626708062980,
       "id": 3
-    },
-    {
-      "userId": 3,
-      "fullname": "Nguyen Van  Anh",
-      "deleveryAddress": "123123",
-      "orderNotes": "asdasd",
-      "phoneNumber": "0336456321",
-      "cart": {
-        "product": [
-          {
-            "name": "Zamioculcas",
-            "quantity": 2,
-            "price": 45000,
-            "unitPrice": 90000
-          },
-          {
-            "name": "Spathiphyllum",
-            "quantity": 9,
-            "price": 48000,
-            "unitPrice": 432000
-          }
-        ],
-        "totalPrice": 522000
-      },
-      "createdAt": 1626687097021,
-      "updatedAt": 1626687097021,
-      "id": 4
-    },
-    {
-      "userId": 3,
-      "fullname": "Nguyen Van  Anh",
-      "deleveryAddress": "123123",
-      "orderNotes": "asdasd",
-      "phoneNumber": "0336456321",
-      "cart": {
-        "product": [
-          {
-            "name": "Zamioculcas",
-            "quantity": 2,
-            "price": 45000,
-            "unitPrice": 90000
-          },
-          {
-            "name": "Spathiphyllum",
-            "quantity": 9,
-            "price": 48000,
-            "unitPrice": 432000
-          }
-        ],
-        "totalPrice": 522000
-      },
-      "createdAt": 1626687202017,
-      "updatedAt": 1626687202017,
-      "id": 5
-    },
-    {
-      "userId": 3,
-      "fullname": "Nguyen Van  Anh",
-      "deleveryAddress": "123123",
-      "orderNotes": "asd",
-      "phoneNumber": "0336456321",
-      "cart": {
-        "product": [
-          {
-            "name": "Zamioculcas",
-            "quantity": 2,
-            "price": 45000,
-            "unitPrice": 90000
-          },
-          {
-            "name": "Spathiphyllum",
-            "quantity": 9,
-            "price": 48000,
-            "unitPrice": 432000
-          }
-        ],
-        "totalPrice": 522000
-      },
-      "createdAt": 1626687297689,
-      "updatedAt": 1626687297689,
-      "id": 6
     },
     {
       "userId": 4,
       "fullname": "Truong Van  Ba",
-      "deleveryAddress": "123123",
-      "orderNotes": "asdasd",
+      "deleveryAddress": "128/LeVanDuyet-Q8-SaiGon",
+      "orderNotes": "Giao hàng trước ngày 22/2 !",
       "phoneNumber": "0336456321",
       "cart": {
         "product": [
           {
             "name": "Zamioculcas",
-            "quantity": 2,
+            "quantity": 1,
             "price": 45000,
-            "unitPrice": 90000
+            "unitPrice": 45000
+          },
+          {
+            "name": "Jade Tree",
+            "quantity": 1,
+            "price": 51000,
+            "unitPrice": 51000
           },
           {
             "name": "Spathiphyllum",
-            "quantity": 9,
+            "quantity": 7,
             "price": 48000,
-            "unitPrice": 432000
-          }
-        ],
-        "totalPrice": 522000
-      },
-      "createdAt": 1626687892720,
-      "updatedAt": 1626687892720,
-      "id": 7
-    },
-    {
-      "userId": 5,
-      "fullname": "Ta Thi  Hoi",
-      "deleveryAddress": "123123",
-      "orderNotes": "asdasdasdasdasd",
-      "phoneNumber": "0336456321",
-      "cart": {
-        "product": [
-          {
-            "name": "Zamioculcas",
-            "quantity": 2,
-            "price": 45000,
-            "unitPrice": 90000
+            "unitPrice": 336000
           },
           {
-            "name": "Spathiphyllum",
-            "quantity": 9,
-            "price": 48000,
-            "unitPrice": 432000
-          }
-        ],
-        "totalPrice": 522000
-      },
-      "createdAt": 1626688098822,
-      "updatedAt": 1626688098822,
-      "id": 8
-    },
-    {
-      "userId": 3,
-      "fullname": "Nguyen Van  Anh",
-      "deleveryAddress": "123123",
-      "orderNotes": "asdasd",
-      "phoneNumber": "0336456321",
-      "cart": {
-        "product": [
-          {
-            "name": "Zamioculcas",
-            "quantity": 2,
-            "price": 45000,
-            "unitPrice": 90000
+            "name": "Ironwood Tree",
+            "quantity": 1,
+            "price": 56000,
+            "unitPrice": 56000
           },
           {
-            "name": "Spathiphyllum",
-            "quantity": 9,
-            "price": 48000,
-            "unitPrice": 432000
+            "name": "Ornamental",
+            "quantity": 1,
+            "price": 56000,
+            "unitPrice": 56000
+          },
+          {
+            "name": "Peace of Mind",
+            "quantity": 1,
+            "price": 63000,
+            "unitPrice": 63000
+          },
+          {
+            "name": "Bamboo Tree",
+            "quantity": 1,
+            "price": 68000,
+            "unitPrice": 68000
           }
         ],
-        "totalPrice": 522000
+        "totalPrice": 675000
       },
-      "createdAt": 1626688695569,
-      "updatedAt": 1626688695569,
-      "id": 9
+      "createdAt": 1626711865111,
+      "updatedAt": 1626711865111,
+      "id": 4
     }
   ]
 }
