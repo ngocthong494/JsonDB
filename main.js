@@ -59,6 +59,7 @@ app.post("/api/login", function (req, res) {
         role: findUser.role,
         lastName: findUser.lastName,
         firstName: findUser.firstName,
+        fullName: `${findUser.firstName}  ${findUser.lastName}`,
         phone: findUser.phone,
         address: findUser.address,
       }, process.env.ACCESS_TOKEN_SECRET);
