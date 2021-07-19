@@ -52,7 +52,17 @@ app.post("/api/login", function (req, res) {
     });
 
     if (findUser) {
-      const accessToken = jwt.sign({ email, role: findUser.role, name: findUser.lastName }, process.env.ACCESS_TOKEN_SECRET);
+      
+      const accessToken = jwt.sign({
+        email, 
+        id: findUser.id,
+        role: findUser.role,
+        lastName: findUser.lastName,
+        firstName: findUser.firstName,
+        phone: findUser.phone,
+        address: findUser.address,
+      }, process.env.ACCESS_TOKEN_SECRET);
+
       res.json({ accessToken, message: "Sign in successfully!", status: true, });
     } else {
       res.status(401).json({ message: "Username or password invalid!", status: false, });

@@ -49,26 +49,26 @@
   "categories": [
     {
       "name": "Category1",
-      "createdAt": 1625988960619,
-      "updatedAt": 1625988960619,
+      "createdAt": 1626585037758,
+      "updatedAt": 1626585037758,
       "id": 1
     },
     {
       "name": "Category2",
-      "createdAt": 1625988967192,
-      "updatedAt": 1625988967192,
+      "createdAt": 1626585046477,
+      "updatedAt": 1626585046477,
       "id": 2
     },
     {
       "name": "Category3",
-      "createdAt": 1625988970095,
-      "updatedAt": 1625988970095,
+      "createdAt": 1626585049120,
+      "updatedAt": 1626585049120,
       "id": 3
     },
     {
       "name": "Category4",
-      "createdAt": 1625988972940,
-      "updatedAt": 1625988972940,
+      "createdAt": 1626585050925,
+      "updatedAt": 1626585050925,
       "id": 4
     }
   ],
@@ -812,71 +812,299 @@
   ],
   "orders": [
     {
-      "userId": "c5602659-75fc-4b14-ab6e-c6023fa89212",
-      "userName": "BeatriceMitchell",
-      "addressName": "",
-      "id": "63ed2b01-2285-49cc-807d-1ce75231da76",
-      "createdAt": 1625665180812,
-      "updatedAt": 1625665180812
+      "fullname": "Nguyen Van Anh",
+      "deleveryAddress": "123123",
+      "orderNotes": "",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 9,
+            "price": 48000,
+            "unitPrice": 432000
+          }
+        ],
+        "totalPrice": 522000
+      },
+      "createdAt": 1626674645416,
+      "updatedAt": 1626674645416,
+      "id": 1
     },
     {
-      "userId": "47b85bdf-e9e8-4638-9761-71e38393c086",
-      "userName": "DemondStreich",
-      "addressName": "",
-      "id": "a2d1d425-735c-4dcf-815b-57b495de8c74",
-      "createdAt": 1625665180812,
-      "updatedAt": 1625665180812
+      "fullname": "Nguyen Van Anh",
+      "deleveryAddress": "123123",
+      "orderNotes": "",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 9,
+            "price": 48000,
+            "unitPrice": 432000
+          }
+        ],
+        "totalPrice": 522000
+      },
+      "createdAt": 1626674719346,
+      "updatedAt": 1626674719346,
+      "id": 2
     },
     {
-      "userId": "fcc6c658-388f-49ba-a718-bebab730f26e",
-      "userName": "JudahPaucek",
-      "addressName": "",
-      "id": "a6590bb2-2b39-4ddf-9f46-d21fd035c31a",
-      "createdAt": 1625665180812,
-      "updatedAt": 1625665180812
-    }
-  ],
-  "orderDetails": [
-    {
-      "orderId": "63ed2b01-2285-49cc-807d-1ce75231da76",
-      "id": "39f32568-be31-4a52-baf5-1a637c797f45",
-      "productId": "",
-      "quantity": 0,
-      "unitPrice": 0,
-      "totalPrice": 0,
-      "discount": 0,
-      "createdAt": 1625665180812,
-      "updatedAt": 1625665180812
+      "userId": 4,
+      "fullname": "Nguyen Van Anh",
+      "deleveryAddress": "123121",
+      "orderNotes": "asdasdasd",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 9,
+            "price": 48000,
+            "unitPrice": 432000
+          }
+        ],
+        "totalPrice": 522000
+      },
+      "createdAt": 1626674749649,
+      "updatedAt": 1626674749649,
+      "id": 3
     },
     {
-      "orderId": "a2d1d425-735c-4dcf-815b-57b495de8c74",
-      "id": "2c9b4b0c-fd92-4767-a7de-458ddb83538b",
-      "productId": "",
-      "quantity": 0,
-      "unitPrice": 0,
-      "totalPrice": 0,
-      "discount": 0,
-      "createdAt": 1625665180813,
-      "updatedAt": 1625665180813
+      "userId": 4,
+      "fullname": " asd",
+      "deleveryAddress": "123123",
+      "orderNotes": "",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 9,
+            "price": 48000,
+            "unitPrice": 432000
+          }
+        ],
+        "totalPrice": 522000
+      },
+      "createdAt": 1626674853203,
+      "updatedAt": 1626674853203,
+      "id": 4
     },
     {
-      "orderId": "a6590bb2-2b39-4ddf-9f46-d21fd035c31a",
-      "id": "dc4da8dc-5088-41e3-b38b-f55bfa37d6a1",
-      "productId": "",
-      "quantity": 0,
-      "unitPrice": 0,
-      "totalPrice": 0,
-      "discount": 0,
-      "createdAt": 1625665180813,
-      "updatedAt": 1625665180813
-    }
-  ],
-  "address": [
+      "userId": 4,
+      "fullname": " asdasd",
+      "deleveryAddress": "123123",
+      "orderNotes": "asdasdasd",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 9,
+            "price": 48000,
+            "unitPrice": 432000
+          }
+        ],
+        "totalPrice": 522000
+      },
+      "createdAt": 1626675186444,
+      "updatedAt": 1626675186444,
+      "id": 5
+    },
     {
-      "id": "fdad94f3-bb5a-43a9-b4c2-1d7916d74962",
-      "name": "",
-      "createdAt": 1625665180813,
-      "updatedAt": 1625665180813
+      "userId": 4,
+      "fullname": " asdasd",
+      "deleveryAddress": "123123",
+      "orderNotes": "asd",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 9,
+            "price": 48000,
+            "unitPrice": 432000
+          }
+        ],
+        "totalPrice": 522000
+      },
+      "createdAt": 1626676440984,
+      "updatedAt": 1626676440984,
+      "id": 6
+    },
+    {
+      "userId": 4,
+      "fullname": " asdasd",
+      "deleveryAddress": "123123",
+      "orderNotes": "asdasd",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 9,
+            "price": 48000,
+            "unitPrice": 432000
+          }
+        ],
+        "totalPrice": 522000
+      },
+      "createdAt": 1626676648560,
+      "updatedAt": 1626676648560,
+      "id": 7
+    },
+    {
+      "userId": 4,
+      "fullname": " asdasd",
+      "deleveryAddress": "123123asd",
+      "orderNotes": "asdasd",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 9,
+            "price": 48000,
+            "unitPrice": 432000
+          }
+        ],
+        "totalPrice": 522000
+      },
+      "createdAt": 1626676676500,
+      "updatedAt": 1626676676500,
+      "id": 8
+    },
+    {
+      "userId": 4,
+      "fullname": " asdasd",
+      "deleveryAddress": "123123",
+      "orderNotes": "asdasdasd",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 9,
+            "price": 48000,
+            "unitPrice": 432000
+          }
+        ],
+        "totalPrice": 522000
+      },
+      "createdAt": 1626676832248,
+      "updatedAt": 1626676832248,
+      "id": 9
+    },
+    {
+      "userId": 4,
+      "fullname": " asdasd",
+      "deleveryAddress": "123123",
+      "orderNotes": "asdasd",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 9,
+            "price": 48000,
+            "unitPrice": 432000
+          }
+        ],
+        "totalPrice": 522000
+      },
+      "createdAt": 1626676872653,
+      "updatedAt": 1626676872653,
+      "id": 10
+    },
+    {
+      "userId": 4,
+      "fullname": "asdasd",
+      "deleveryAddress": "123123",
+      "orderNotes": "asdasd",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 9,
+            "price": 48000,
+            "unitPrice": 432000
+          }
+        ],
+        "totalPrice": 522000
+      },
+      "createdAt": 1626680068111,
+      "updatedAt": 1626680068111,
+      "id": 11
     }
   ]
 }
