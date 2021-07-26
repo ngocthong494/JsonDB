@@ -38,7 +38,8 @@ const randomUserList = (n) => {
 // // -----------------------------------------------------------
 // // create categories
 
-const randomCategoryList = (n) => {
+const randomCategoryList = (n, products) => {
+  console.log(products);
   if (n <= 0) return;
   const categoryList = []
 
@@ -258,3 +259,4 @@ const randomAddressList = (n) => {
     console.log('generate-data successfully')
   });
 })();
+
