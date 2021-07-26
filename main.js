@@ -51,7 +51,6 @@ app.post("/api/login", function (req, res) {
     });
 
     if (findUser) {
-
       const accessToken = jwt.sign({
         email,
         id: findUser.id,
