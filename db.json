@@ -104,6 +104,23 @@
       "city": "123123",
       "role": "user",
       "id": 7
+    },
+    {
+      "firstName": "Nguyen Van",
+      "lastName": "Thuan",
+      "email": "nguyenvan1@gmail.com",
+      "phone": "0992485266",
+      "password": "123a!123",
+      "retypePassword": "123a!123",
+      "birthDay": "123",
+      "sex": "1231",
+      "address": "123",
+      "district": "123",
+      "city": "123",
+      "role": "user",
+      "createdAt": 1626788418486,
+      "updatedAt": 1626788418486,
+      "id": 8
     }
   ],
   "categories": [
@@ -130,45 +147,15 @@
       "createdAt": 1626585050925,
       "updatedAt": 1626585050925,
       "id": 4
+    },
+    {
+      "name": "category5",
+      "createdAt": 1626788699082,
+      "updatedAt": 1626788699082,
+      "id": 5
     }
   ],
   "products": [
-    {
-      "categoryId": "1",
-      "name": "Zamioculcas",
-      "price": 60000,
-      "sale": 0.25,
-      "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
-      "thumbnailUrl": [
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw2.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw3.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
-      ],
-      "description": "The money tree is also known as the money tree. Their scientific name is Zamiokulkas Zamifolia. Although this plant is small in size, its vitality is very strong. Smooth, glossy green leaves. It always looks so fresh. The longer the tree lives, the more opportunities it has to grow.\nIn addition to the ability to filter the air, this is also a plant of high water protection. People often use it on desks, corridors, etc.",
-      "rating": {},
-      "createdAt": 1625989280827,
-      "updatedAt": 1625989280827,
-      "id": "TcEazzX"
-    },
-    {
-      "categoryId": "1",
-      "name": "Jade Tree",
-      "price": 60000,
-      "sale": 0.15,
-      "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-2.jpg",
-      "thumbnailUrl": [
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw2.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw3.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
-      ],
-      "description": "In addition to the fortune needle, the jade tree also brings very good money. Although their appearance is small, but in return they have a vitality that is second to none. Even in harsh environments like the office. They also have fewer pests and diseases.\n\nUsually jade plants used to grow in offices have oval slabs. These slabs are connected to form very beautiful shoots of bamboo shoots. These shoots will help the plant collect money and positive energy for the owner.",
-      "rating": {},
-      "createdAt": 1625989416918,
-      "updatedAt": 1625989416918,
-      "id": "NcWyqyW"
-    },
     {
       "categoryId": "1",
       "name": "Spathiphyllum",
@@ -186,42 +173,6 @@
       "createdAt": 1625989495116,
       "updatedAt": 1625989495116,
       "id": "S8CbJ4Q"
-    },
-    {
-      "categoryId": "1",
-      "name": "Ironwood Tree",
-      "price": 70000,
-      "sale": 0.2,
-      "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-4.jpg",
-      "thumbnailUrl": [
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw2.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw3.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
-      ],
-      "description": "In addition to the fortune needle, the jade tree also brings very good money. Although their appearance is small, but in return they have a vitality that is second to none. Even in harsh environments like the office. They also have fewer pests and diseases.\\n\\nUsually jade plants used to grow in offices have oval slabs. These slabs are connected to form very beautiful shoots of bamboo shoots. These shoots will help the plant collect money and positive energy for the owner.",
-      "rating": {},
-      "createdAt": 1625989588633,
-      "updatedAt": 1625989588633,
-      "id": "a6OtKW-"
-    },
-    {
-      "categoryId": "1",
-      "name": "Ornamental",
-      "price": 70000,
-      "sale": 0.2,
-      "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-5.jpg",
-      "thumbnailUrl": [
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw2.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw3.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
-      ],
-      "description": "In addition to the fortune needle, the jade tree also brings very good money. Although their appearance is small, but in return they have a vitality that is second to none. Even in harsh environments like the office. They also have fewer pests and diseases.\\\\n\\\\nUsually jade plants used to grow in offices have oval slabs. These slabs are connected to form very beautiful shoots of bamboo shoots. These shoots will help the plant collect money and positive energy for the owner.",
-      "rating": {},
-      "createdAt": 1625989744123,
-      "updatedAt": 1625989744123,
-      "id": "k0AX1t3"
     },
     {
       "categoryId": "1",
@@ -276,24 +227,6 @@
       "createdAt": 1625990008383,
       "updatedAt": 1625990008383,
       "id": "pNW62P8"
-    },
-    {
-      "categoryId": "1",
-      "name": "Valentine tree",
-      "price": 90000,
-      "sale": 0.15,
-      "bigPicture": "http://landing.engotheme.com/html/hamadryad/demo/images/products/product-1.jpg",
-      "thumbnailUrl": [
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw1.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw2.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw3.jpg",
-        "http://landing.engotheme.com/html/hamadryad/demo/images/products/dotw/dotw4.jpg"
-      ],
-      "description": "Their English name is Spathiphyllum Wallisii. And Vietnamese people often call it orchids. This plant has a very good air purifying effect.\n\nIn addition, it also absorbs electromagnetic waves or ultraviolet rays from electrical equipment. This tree is often placed in the aisle more than the desk.",
-      "rating": {},
-      "createdAt": 1625990139150,
-      "updatedAt": 1625990139150,
-      "id": "jxV8zkg"
     },
     {
       "categoryId": "1",
@@ -1044,6 +977,84 @@
       "createdAt": 1626711865111,
       "updatedAt": 1626711865111,
       "id": 4
+    },
+    {
+      "userId": 5,
+      "fullname": "Ta Thi  Hoi",
+      "deleveryAddress": "321/LeDuan-HaDong-HaNoi",
+      "orderNotes": "Giao hàng vào lúc 7h sáng!",
+      "phoneNumber": "0336456321",
+      "cart": {
+        "product": [
+          {
+            "name": "Jade Tree",
+            "quantity": 3,
+            "price": 51000,
+            "unitPrice": 153000
+          },
+          {
+            "name": "Spathiphyllum",
+            "quantity": 3,
+            "price": 48000,
+            "unitPrice": 144000
+          },
+          {
+            "name": "Ironwood Tree",
+            "quantity": 3,
+            "price": 56000,
+            "unitPrice": 168000
+          },
+          {
+            "name": "Zamioculcas",
+            "quantity": 4,
+            "price": 45000,
+            "unitPrice": 180000
+          }
+        ],
+        "totalPrice": 645000
+      },
+      "createdAt": 1626784587901,
+      "updatedAt": 1626784587901,
+      "id": 5
+    },
+    {
+      "userId": 8,
+      "fullname": "Nguyen Van  Thuan",
+      "deleveryAddress": "20/HoNghinh-Danang",
+      "orderNotes": "giao hàng vào lúc 7h tối hằng ngày.",
+      "phoneNumber": "0992485266",
+      "cart": {
+        "product": [
+          {
+            "name": "Zamioculcas",
+            "quantity": 2,
+            "price": 45000,
+            "unitPrice": 90000
+          },
+          {
+            "name": "Zamioculcas",
+            "quantity": 4,
+            "price": 45000,
+            "unitPrice": 180000
+          },
+          {
+            "name": "Ornamental",
+            "quantity": 3,
+            "price": 56000,
+            "unitPrice": 168000
+          },
+          {
+            "name": "Peace of Mind",
+            "quantity": 4,
+            "price": 63000,
+            "unitPrice": 252000
+          }
+        ],
+        "totalPrice": 690000
+      },
+      "createdAt": 1626788533326,
+      "updatedAt": 1626788533326,
+      "id": 6
     }
   ]
 }
